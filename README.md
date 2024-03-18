@@ -1,7 +1,8 @@
 ![MasterHead](https://www.oho.co.uk/uploads/guide-to-machine-learning-and-ai.jpg)
 
 <h1 align="center">Hi 👋, I'm Sudipta Sarkar</h1>
-<h3 align="center">My self Sudipta Sarkar (Rik), I pursuing my Bachelor's Degree in Computer Science (Hons.) from Ramakrishna Mission Vivekananda Centenary College, Rahara. My field of interests are Programming, Theoretical Computer Science, Data structures and Algorithms, Artificial Intelligence, Machine Learning, Computer Vision.</h3>
+<h3 align="center">My self Sudipta Sarkar (Rik), I pursuing my master's degree at Ramakrishna Mission Residential College (Autonomous), Narendrapur and I have done my bachelor's degree in Computer Science (Hons.) from Ramakrishna Mission Vivekananda Centenary College, Rahara.
+My field of interests are Programming, Theoretical Computer Science, Data structures and Algorithms, Artificial Intelligence, Machine Learning, Computer Vision.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 <img align="left" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rik-sarkar-07&label=Profile%20views&color=0e75b6&style=flat" alt="rik-sarkar-07" /> </p>
