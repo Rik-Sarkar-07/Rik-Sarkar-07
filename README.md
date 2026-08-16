@@ -1,7 +1,7 @@
 # Hi 👋, I'm Sudipta Sarkar
 
 <p align="center">
-  <img src="https://www.oho.co.uk/uploads/guide-to-machine-learning-and-ai.jpg" alt="Machine Learning and AI" width="100%">
+  <img src="[https://www.oho.co.uk/uploads/guide-to-machine-learning-and-ai.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGGmWml48DPUsWXWQhhg2EdJShDCT9uwEXoX_IrwSXxw&s=10)" alt="Machine Learning and AI" width="100%">
 </p>
 
 <h1 align="center">Sudipta Sarkar</h1>
