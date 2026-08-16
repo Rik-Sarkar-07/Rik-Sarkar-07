@@ -1,7 +1,10 @@
 # Hi 👋, I'm Sudipta Sarkar
 
 <p align="center">
-  <img src="https://nielit.ac.in/img/courses/mtech-aiml/mtech-aiml-2.png" alt="Machine Learning and AI" width="100%">
+  <img src="https://nielit.ac.in/img/courses/mtech-aiml/mtech-aiml-2.png"
+       alt="Machine Learning and AI"
+       width="750"
+       height="250">
 </p>
 
 <h1 align="center">Sudipta Sarkar</h1>
