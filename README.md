@@ -1,7 +1,7 @@
 # Hi 👋, I'm Sudipta Sarkar
 
 <p align="center">
-  <img src="https://nielit.ac.in/img/courses/mtech-aiml/mtech-aiml-2.png"
+  <img src="https://prudenttec.com/assets/img/service/aiml.jpg"
        alt="Machine Learning and AI"
        width="750"
        height="250">
