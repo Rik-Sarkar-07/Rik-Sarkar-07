@@ -64,14 +64,13 @@ Previously, I worked as a **Junior Research Fellow at IIT Kharagpur**, where I w
 
 `Linux` · `Git` · `SLURM` · `CUDA` · `PyTorch DDP` · `FlashAttention-2`
 
-Your CV lists these tools and model families across programming, systems, frameworks, and multimodal modeling.
 
 ---
 
 ## 🏆 Achievements
 
 * 🥇 **Best Postgraduate Student Award & 1st Rank in M.Sc.** — 2025
-* 🎯 **UGC-NET (LS) — 99.83 Percentile** — 2025
+* 🎯 **UGC-NET — 99.83 Percentile** — 2025
 * 🏅 **UGC National Scholarship for Post Graduate Studies** — 2024
 * 🥉 **3rd Rank in RKMVERI M.Sc. Admission Test** — 2023
 * 🥉 **3rd Rank in B.Sc. (Hons.)** — 2023
