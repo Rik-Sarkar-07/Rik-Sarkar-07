@@ -1,38 +1,136 @@
-![MasterHead](https://www.oho.co.uk/uploads/guide-to-machine-learning-and-ai.jpg)
+# Hi 👋, I'm Sudipta Sarkar
 
-<h1 align="center">Hi 👋, I'm Sudipta Sarkar</h1>
+<p align="center">
+  <img src="https://www.oho.co.uk/uploads/guide-to-machine-learning-and-ai.jpg" alt="Machine Learning and AI" width="100%">
+</p>
 
-<h3 align="center">
-I'm Sudipta Sarkar (Rik), a Computer Science graduate with a deep interest in technology, algorithms, and research.
-</h3>
-
-<h3 align="center">
-I have completed my Master's degree in Computer Science (June 2025) from 
-<a href="https://rkmrc.in">Ramakrishna Mission Residential College (Autonomous), Narendrapur</a>, and my Bachelor's degree in Computer Science (Hons.) from 
-<a href="https://rkmvccrahara.org">Ramakrishna Mission Vivekananda Centenary College, Rahara</a>.
-</h3>
+<h1 align="center">Sudipta Sarkar</h1>
 
 <h3 align="center">
-I have also qualified the UGC-NET (LS) exam with a 99.83 percentile for Assistant Professorship and Ph.D. eligibility in the June 2025 cycle.
+PhD Researcher @ IISER Kolkata · Former JRF @ IIT Kharagpur
 </h3>
 
-<h3 align="center">
-My fields of interest include Programming, Theoretical Computer Science, Data Structures and Algorithms, Artificial Intelligence, Machine Learning, and Computer Vision.
-</h3>
+<p align="center">
+<b>Multimodal Information Retrieval · Vision-Language Models · Multimodal LLMs · RAG · Computer Vision</b>
+</p>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-<img align="left" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif">
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rik-sarkar-07&label=Profile%20views&color=0e75b6&style=flat" alt="rik-sarkar-07" /> </p>
+## 👨‍🎓 About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rik-sarkar-07" alt="rik-sarkar-07" /></a> </p>
+I am a **PhD researcher in Computational and Data Sciences at the Indian Institute of Science Education and Research (IISER) Kolkata**, working on **Multimodal Information Retrieval, Vision-Language Models, and Multimodal Large Language Models**.
 
-- 🌱 I’m currently exploring advanced topics in **Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision.**
+My research focuses on bridging **retrieval and reasoning** by developing efficient multimodal representation learning methods for **Retrieval-Augmented Generation (RAG), multimodal search, and knowledge-intensive AI systems**. I am also broadly interested in scalable multimodal learning, image and video understanding, and foundation models.
 
-- 👨‍💻 All of my projects and work are shared on [LinkedIn](https://www.linkedin.com/in/sudipta-sarkar-0665b5253/)
+Previously, I worked as a **Junior Research Fellow at IIT Kharagpur**, where I worked on resource-efficient video understanding and Vision Transformer-based models using large-scale GPU clusters.
 
-- 💬 Ask me about **C++, Python, Deep Learning, and Theoretical CS topics.**
+---
 
-- 📫 Reach me at: **sudiptasarkar3600@gmail.com**
+## 🔬 Research Interests
 
-- 📄 View my profile and experiences on [LinkedIn](https://www.linkedin.com/in/sudipta-sarkar-0665b5253/)
+* 🔎 **Multimodal Information Retrieval**
+* 🤖 **Vision-Language Models & Alignment**
+* 🧠 **Multimodal Large Language Models**
+* 📚 **Retrieval-Augmented Generation (RAG)**
+* 👁️ **Computer Vision & Image Understanding**
+* 🎥 **Video Understanding & Action Recognition**
+* ⚡ **Efficient Deep Learning**
+* 🧩 **Multimodal Representation Learning**
+* 🏗️ **Foundation Models**
+* ✨ **Generative AI**
+
+---
+
+
+## 🛠️ Technical Skills
+
+### Programming
+
+`Python` · `C++` · `C` · `Java` · `SQL`
+
+### Deep Learning & AI
+
+`PyTorch` · `TensorFlow` · `Vision Transformers` · `DINO` · `CLIP` · `SigLIP` · `LLMs` · `Multimodal RAG`
+
+### Computer Vision
+
+`OpenCV` · `Torchvision` · `ViT` · `DeiT` · `Swin` · `MViT` · `Hiera` · `ATLAS`
+
+### Retrieval & Multimodal AI
+
+`FAISS` · `CLIP` · `SigLIP` · `Multimodal RAG` · `Vision-Language Models`
+
+### Systems & Tools
+
+`Linux` · `Git` · `SLURM` · `CUDA` · `PyTorch DDP` · `FlashAttention-2`
+
+Your CV lists these tools and model families across programming, systems, frameworks, and multimodal modeling.
+
+---
+
+## 🏆 Achievements
+
+* 🥇 **Best Postgraduate Student Award & 1st Rank in M.Sc.** — 2025
+* 🎯 **UGC-NET (LS) — 99.83 Percentile** — 2025
+* 🏅 **UGC National Scholarship for Post Graduate Studies** — 2024
+* 🥉 **3rd Rank in RKMVERI M.Sc. Admission Test** — 2023
+* 🥉 **3rd Rank in B.Sc. (Hons.)** — 2023
+* 🥇 **1st Place — Intra-College Coding Competition** — 2022
+
+---
+
+## 🎓 Education
+
+**PhD in Computational and Data Sciences**
+Indian Institute of Science Education and Research (IISER) Kolkata
+*Aug. 2026 – Present*
+
+**M.Sc. in Computer Science**
+Ramakrishna Mission Residential College (Autonomous), Narendrapur
+*Sept. 2023 – June 2025 · Rank 1 · CGPA 9.95/10.00*
+
+**B.Sc. (Hons.) in Computer Science**
+Ramakrishna Mission Vivekananda Centenary College, Rahara
+*Sept. 2020 – May 2023 · Rank 3 · CGPA 9.72/10.00*
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rik-Sarkar-07&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rik-Sarkar-07&layout=compact&theme=tokyonight&hide_border=true" height="170">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rik-Sarkar-07&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://sudipta-rkmrc.github.io/website/">🌐 Website</a> ·
+  <a href="https://github.com/Rik-Sarkar-07">💻 GitHub</a> ·
+  <a href="https://www.linkedin.com/in/sudipta-sarkar-0665b5253/">💼 LinkedIn</a> ·
+  <a href="https://x.com/sarkar360000">𝕏 X</a>
+</p>
+
+📧 **Email:** [sudiptasarkar3600@gmail.com](mailto:sudiptasarkar3600@gmail.com)
+
+---
+
+## 💡 Current Focus
+
+> **Building efficient multimodal retrieval and reasoning systems that connect visual and textual information for reliable knowledge-intensive AI.**
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rik-Sarkar-07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+</p>
+
+<p align="center">
+  <i>Researching · Building · Learning · Exploring Multimodal AI</i>
+</p>
