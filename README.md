@@ -14,7 +14,7 @@ PhD Researcher @ IISER Kolkata · Former JRF @ IIT Kharagpur
 </h3>
 
 <p align="center">
-<b>Multimodal Information Retrieval · Vision-Language Models · Multimodal LLMs · RAG · Computer Vision</b>
+<b>Vision & Video Understanding · Information Retrieval · Language & Text Processing· Multimodal LLMs ·</b>
 </p>
 
 ---
