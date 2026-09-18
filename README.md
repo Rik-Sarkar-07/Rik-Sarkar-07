@@ -113,7 +113,8 @@ Ramakrishna Mission Vivekananda Centenary College, Rahara
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://sudipta-rkmrc.github.io/website/">🌐 Website</a> ·
+ 
+  <a href="https://sarkarsudipta.github.io/">🌐 Website</a> ·
   <a href="https://github.com/Rik-Sarkar-07">💻 GitHub</a> ·
   <a href="https://www.linkedin.com/in/sudipta-sarkar-0665b5253/">💼 LinkedIn</a> ·
   <a href="https://x.com/sarkar360000">𝕏 X</a>
