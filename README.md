@@ -14,7 +14,7 @@ PhD Researcher @ IISER Kolkata · Former JRF @ IIT Kharagpur
 </h3>
 
 <p align="center">
-<b>Vision & Video Understanding · Information Retrieval · Language & Text Processing· Multimodal LLMs · Robotics & Automation</b>
+<b>Vision & Video Understanding · Information Retrieval · Language & Text Processing · Multimodal LLMs · Robotics & Automation</b>
 </p>
 
 ---
